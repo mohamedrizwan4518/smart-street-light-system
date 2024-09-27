@@ -30,11 +30,5 @@ connected to the board.
 - If object is detected, the LED get ON, else it is in OFF mode.
 
 ##### Code
-This is [Arduino Code](https://github.com/iamkrvikash/street-light/blob/master/arduino_code.ino "Arduino Code ") to perform the task.
+This is [Arduino Code](https://github.com/mohamedrizwan4518/smart-street-light-system/blob/main/arduino_code.ino)) to perform the task.
 
-#### Team Members
- - Arpita Sinha     [LinkedIn Profile](https://www.linkedin.com/in/arpita-sinha-3582151b4/)
- - Siddharth Nanda [LinkedIn Profile](https://www.linkedin.com/in/siddharth-nanda-2b65a0142/)
- - Vikash Kumar     [LinkedIn Profile](https://www.linkedin.com/in/iamkrvikash/)
-
-------------
