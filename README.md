@@ -6,7 +6,7 @@
 ###### Smart Streetlight is an automated system which automates the street. The main aim of Smart Streetlight is to reduce the power consumption when there are no vehicle movements on the road.
 
 ##### Documentation :
-This [documentation ](https://github.com/iamkrvikash/street-light/blob/master/Smart_Streetlight_Control_System.pdf) provides detailed information of the Project. 
+This [documentation ]() provides detailed information of the Project. 
 
 ###### Hardware Used :
 - Arduino Nano
